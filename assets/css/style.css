@@ -1,0 +1,46 @@
+.header {
+  background-color: #c0c0c0;
+  color: #254955;
+  padding: 11px;
+  border-bottom: 5px solid #254955;
+  border-top: 2px solid #254955;
+  font-family: "Questrial", sans-serif;
+}
+.container {
+  width: 60%;
+  background-color: #c0c0c0;
+  color: #254955;
+  border: 5px solid #254955;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: "Questrial", sans-serif;
+}
+.col-md-12 {
+  padding: 10px;
+  margin: auto;
+}
+.populate {
+  background-color: #254955;
+  color: white;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.info {
+  font-size: 24px;
+  text-align: center;
+}
+
+.row {
+  justify-content: center;
+}
